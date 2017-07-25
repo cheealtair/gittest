@@ -1,0 +1,4 @@
+*.exe
+.coverage
+*.bak
+htmlcov
